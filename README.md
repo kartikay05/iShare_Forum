@@ -11,7 +11,10 @@ iShare is a simple and clean **PHP-based discussion forum** built for practice a
 <img width="1892" height="867" alt="image" src="https://github.com/user-attachments/assets/25ac77b9-a060-484d-89e5-3acab8f5220e" />
 <img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/94452cd4-4c5d-456c-88d5-8f866f0add79" />
 
+## 💾 Database
 
+- **Database file added for your easy understanding.**  
+  You can find it in the repo as `ishare.sql`.
 
 ---
 
