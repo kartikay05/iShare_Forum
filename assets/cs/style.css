@@ -1,0 +1,114 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    line-height: 1.7;
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #0d6efd;
+}
+
+.section-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+}
+
+.about-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.lead {
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+@media (max-width: 576px) {
+    .about-title {
+        font-size: 2rem;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card a:hover {
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+h5.card-title a {
+    font-weight: 600;
+    color: #212529;
+}
+
+h5.card-title a:hover {
+    color: #0d6efd;
+}
+
+
+.custom-carousel-height {
+    height: 65vh;
+    max-height: 500px;
+}
+
+.custom-carousel-img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+}
+
+.carousel-inner {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-container {
+    max-width: 50vw;
+    margin-top: 50px;
+}
+
+.contact-card {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.form-control,
+.form-control:focus {
+    box-shadow: none;
+}
+
+.contact-title {
+    font-weight: 600;
+}
+
+#maincontainer {
+    min-height: 100vh;
+}
+
+.footer {
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 40px;
+}
